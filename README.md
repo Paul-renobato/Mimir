@@ -1,1 +1,3 @@
 # Mimir
+.hi
+.S
